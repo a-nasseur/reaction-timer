@@ -1,5 +1,7 @@
 # reaction-timer
 
+project realized during the learning curve, course dispensed from the net ninja tutorial series
+
 ## Project setup
 ```
 npm install
