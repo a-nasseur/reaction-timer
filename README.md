@@ -1,6 +1,7 @@
 # reaction-timer
 
 project realized during the learning curve, course dispensed from the net ninja tutorial series
+very simple app principle click on the play button, a box will apear on the screen at a random time you need to click as fast as possible it will give you a score and a status 
 
 ## Project setup
 ```
